@@ -153,7 +153,7 @@ E.g. They program:
 
 ```
 animals is dog, cat, cow
-print the best animals are…
+print the best animals are...
 print animals at random
 ```
 Instead they should change the word animals in the second line into something other than animals. For example: 
